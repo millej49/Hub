@@ -1,3 +1,2 @@
 # Hub
-Start of the Hub
-The Hub is my attempt at a software integrating search functionality, email interface, etc. Essentially what Google does.
+The Hub is my attempt at writing  program that integrates a search engine with email, instant messaging, etc. Essentially what Google does.
